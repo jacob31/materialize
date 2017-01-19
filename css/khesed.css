@@ -32,6 +32,13 @@
   text-decoration: none;
   color:rgba(0, 0, 0, 0.87);
 }
+.appbar__logo {
+  font-size: 1.538461538461538em!important;
+  font-family: 'Great Vibes', cursive;
+  font-weight: bold;
+  text-decoration: none;
+  color:rgba(0, 0, 0, 0.87);
+}
 
 .btn {
     font-size: 1.076923076923077em!important;
