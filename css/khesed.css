@@ -45,3 +45,6 @@
     font-weight: 500;
     text-transform: uppercase;
 }
+p {
+  max-width: calc(30em * 1);
+}
